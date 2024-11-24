@@ -4,13 +4,13 @@
   
 <p align="left">
   <a href="https://www.linkedin.com/in/tutranmvp/" target="_blank">
-    <img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true">
+    <img height="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/a4c19c4d0c6cf1019227503eaed82d3fae391f57/imgs/linked.svg">
   </a>
   <a href="https://www.instagram.com/tutranmvp/" target="_blank">
-    <img height="30" src="https://github.com/TuTranMVP/TuTranMVP/blob/main/imgs/instagram.png?raw=true">
+    <img height="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/17d7ebbbb4d64298a7f77ff6405c2c70747b07c5/imgs/instagram2.svg">
   </a>
    <a href="https://www.facebook.com/tutranmvp/" target="_blank">
-    <img height="30" src="https://github.com/TuTranMVP/TuTranMVP/blob/main/imgs/facebook.png?raw=true">
+    <img height="23" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/32ebaf8ff1ff979c5dae85edfeae8e1354434495/imgs/facebook.svg">
   </a>
 </p>
 
@@ -26,17 +26,36 @@ I truly love what I do and look forward to learning more about new technology in
 <br>
 
 <h4>Skills</h5>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/972725a00d786c45d075a3dbb9540664485e54f8/imgs/html-5.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/972725a00d786c45d075a3dbb9540664485e54f8/imgs/css-3.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/32ebaf8ff1ff979c5dae85edfeae8e1354434495/imgs/sass.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/2165e2ebf71fc12986fd38ba433735c0f3c9e9dd/imgs/jquery.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/17d7ebbbb4d64298a7f77ff6405c2c70747b07c5/imgs/figma.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/a056b942c91404e2af9e7202e2d0168bcbd9cf64/imgs/atomic-design.svg"></code>
+<br>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/a056b942c91404e2af9e7202e2d0168bcbd9cf64/imgs/js.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/a056b942c91404e2af9e7202e2d0168bcbd9cf64/imgs/typescript.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/a056b942c91404e2af9e7202e2d0168bcbd9cf64/imgs/c-sharp.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/a056b942c91404e2af9e7202e2d0168bcbd9cf64/imgs/golang.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/a056b942c91404e2af9e7202e2d0168bcbd9cf64/imgs/node-js.svg"></code>
+<br>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/125da83da1495fa3a33d9607e71d5fbd7cf9cfdf/imgs/npm.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/125da83da1495fa3a33d9607e71d5fbd7cf9cfdf/imgs/tailwind.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/125da83da1495fa3a33d9607e71d5fbd7cf9cfdf/imgs/bootstrap.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/125da83da1495fa3a33d9607e71d5fbd7cf9cfdf/imgs/api.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/1758ceb4464c3aceb8a8d6462a038085d8e1905d/imgs/graphql.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/125da83da1495fa3a33d9607e71d5fbd7cf9cfdf/imgs/map.svg"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/125da83da1495fa3a33d9607e71d5fbd7cf9cfdf/imgs/leaflet.svg"></code>
 <hr/>
 
 <h4>Certificates</h5>
 <p align="left">
-  <a href="https://leetcode.com/abhishekmaira1999/">
+  <a href="">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/abhishekmaira191">
+  </a>
+  <a href="">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
 </p>
 <hr/>
 
