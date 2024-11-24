@@ -19,7 +19,7 @@ I truly love what I do and look forward to learning more about new technology in
 🌍  I'm based in Viet Nam <br>
 🖥️  See my portfolio at <a href="https://tutran-profile.web.app">Sirius Homepage</a> <br>
 ✉️  Contact me at <a href="mailto:thanhtu190997@icloud.com">thanhtu190997@icloud.com</a> <br>
-🚀  I'm currently working as a Team Leader at <a href="https://www.fpt-software.com/">FPT Software</a> <br>
+🚀  I'm currently working as a Team Leader at <a href="https://www.fpt-software.com/">FPT</a> <br>
 🧠  I'm learning Golang language <br>
 🤝  I'm open to collaborating on Vuejs, Nuxtjs, Nodejs, Golang and Javascript <br>
 ⚡  In my free time, I enjoy being active and creative. I like to ride a motorbike to explore new places or play the game with a cup of coffee. Other times, I'm reading or learning a new language or framework.
