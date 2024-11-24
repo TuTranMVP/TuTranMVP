@@ -1,19 +1,21 @@
 <div face="Cascadia Code" style="font-family: Cascadia Code;">
-<h1>Hello 👋 My name is Sirius Tran</h1>
+  
+<h1>Hi👋My name is Sirius Tran</h1>
   
 <p align="left">
   <a href="https://www.linkedin.com/in/tutranmvp/" target="_blank">
     <img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true">
   </a>
-  <a href="https://www.flaticon.com/free-icons/instagram/" target="_blank">
-    <img height="30" src="https://www.flaticon.com/free-icons/instagram/">
+  <a href="https://www.instagram.com/tutranmvp/" target="_blank">
+    <img height="30" src="https://www.citypng.com/public/uploads/preview/vector-cloud-shape-comic-style-instagram-icon-701751695127249os8jqsonm0.png">
   </a>
 </p>
+
 I'm a Fullstack Developer with over 5 years of experience building scalable products .<br>
 I truly love what I do and look forward to learning more about new technology in order to create helpful products for life .<br>
 🌍  I'm based in Viet Nam <br>
 🖥️  See my portfolio at <a href="https://tutran-profile.web.app">Sirius Homepage</a> <br>
-✉️  You can contact me at <a href="mailto:thanhtu190997@icloud.com">thanhtu190997@icloud.com</a> <br>
+✉️  Contact me at <a href="mailto:thanhtu190997@icloud.com">thanhtu190997@icloud.com</a> <br>
 🚀  I'm currently working as a Team Leader at <a href="https://www.fpt-software.com/">FPT Software</a> <br>
 🧠  I'm learning Golang language <br>
 🤝  I'm open to collaborating on Vuejs, Nuxtjs, Nodejs, Golang and Javascript <br>
@@ -33,15 +35,6 @@ I truly love what I do and look forward to learning more about new technology in
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 </p>
-<hr/>
-
-<h4>Repository star</h5>
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
-</a>
-<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
-</a>
 <hr/>
 
 <h4>Support me</h5>
