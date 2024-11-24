@@ -7,7 +7,10 @@
     <img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true">
   </a>
   <a href="https://www.instagram.com/tutranmvp/" target="_blank">
-    <img height="30" src="https://www.citypng.com/public/uploads/preview/vector-cloud-shape-comic-style-instagram-icon-701751695127249os8jqsonm0.png">
+    <img height="30" src="https://github.com/TuTranMVP/TuTranMVP/blob/main/imgs/instagram.png?raw=true">
+  </a>
+   <a href="https://www.facebook.com/tutranmvp/" target="_blank">
+    <img height="30" src="https://github.com/TuTranMVP/TuTranMVP/blob/main/imgs/facebook.png?raw=true">
   </a>
 </p>
 
