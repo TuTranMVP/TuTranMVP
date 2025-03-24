@@ -1,6 +1,6 @@
 <div face="Cascadia Code" style="font-family: Cascadia Code;">
   
-<h1>Hi👋My name is Tony Tran</h1>
+<h1>Hi👋My name is Tu Tran (Tony)</h1>
   
 <p align="left">
   <a href="https://www.linkedin.com/in/tutranmvp/" target="_blank">
@@ -72,7 +72,7 @@ I truly love what I do and look forward to learning more about new technology in
   <code><img height="20" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/648px-ESLint_logo.svg.png"></code>
   <code><img height="20" width="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/ccae8c40c404bb02160868a7ff337af17992a120/imgs/websocket.svg"></code>
   <code><img height="20" width="24" src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png"></code>
-  <code><img height="20" width="24" src="https://global.discourse-cdn.com/flex035/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png"></code>
+  <code><img height="20" width="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/f4ce7213af22ffe9c81a4f87ae6b31e0d0fe9f2a/imgs/Three.js_dark.svg"></code>
   <code><img height="20" width="24" src="https://cdn.phaser.io/images/logo/logo-download-vector.png"></code>
   <code><img height="20" width="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/125da83da1495fa3a33d9607e71d5fbd7cf9cfdf/imgs/map.svg"></code>
   <code><img height="20" width="64" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/125da83da1495fa3a33d9607e71d5fbd7cf9cfdf/imgs/leaflet.svg"></code>
