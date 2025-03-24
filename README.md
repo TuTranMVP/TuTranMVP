@@ -70,7 +70,7 @@ I truly love what I do and look forward to learning more about new technology in
 <br>
   <code><img height="20" width="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/125da83da1495fa3a33d9607e71d5fbd7cf9cfdf/imgs/npm.svg"></code>
   <code><img height="20" width="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/648px-ESLint_logo.svg.png"></code>
-  <code><img height="20" width="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/d47023e09c6c4a6f340b22dd32cf3b6f566a76f4/imgs/socketio-light.svg"></code>
+  <code><img height="20" width="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/8049e9bd89ba26d9d8713a1f8048cc4ba2c68143/imgs/socketio-dark.svg"></code>
   <code><img height="20" width="24" src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png"></code>
   <code><img height="20" width="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/f4ce7213af22ffe9c81a4f87ae6b31e0d0fe9f2a/imgs/Three.js_dark.svg"></code>
   <code><img height="20" width="24" src="https://cdn.phaser.io/images/logo/logo-download-vector.png"></code>
