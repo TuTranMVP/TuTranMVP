@@ -18,7 +18,7 @@ I truly love what I do and look forward to learning more about new technology in
 🖥️  See my portfolio at <a href="https://tutran-profile.web.app">Tony Homepage</a> <br>
 ✉️  Contact me at <a href="mailto:thanhtu190997@icloud.com">thanhtu190997@icloud.com</a> <br>
 🚀  I'm currently working as a Team Leader at <a href="https://www.fpt-software.com/">FPT</a> <br>
-🧠  I'm learning Golang language <br>
+🧠  I'm learning AI Applications Engineer <br>
 🤝  I'm open to collaborating on Vuejs, Nuxtjs, Nodejs, Golang and Javascript <br>
 ⚡  In my free time, I enjoy being active and creative. I like to ride a motorbike to explore new places or play the game with a cup of coffee. Other times, I'm reading or learning a new language or framework.
 <br>
@@ -35,6 +35,7 @@ I truly love what I do and look forward to learning more about new technology in
 <br>
   <code><img height="20" width="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/a056b942c91404e2af9e7202e2d0168bcbd9cf64/imgs/js.svg"></code>
   <code><img height="20" width="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/a056b942c91404e2af9e7202e2d0168bcbd9cf64/imgs/typescript.svg"></code>
+  <code><img height="20" width="24" src="https://github.com/TuTranMVP/TuTranMVP/blob/main/imgs/python.svg"></code>
   <code><img height="20" width="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/a056b942c91404e2af9e7202e2d0168bcbd9cf64/imgs/c-sharp.svg"></code>
   <code><img height="20" width="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/a056b942c91404e2af9e7202e2d0168bcbd9cf64/imgs/golang.svg"></code>
   <code><img height="20" width="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/a056b942c91404e2af9e7202e2d0168bcbd9cf64/imgs/node-js.svg"></code>
