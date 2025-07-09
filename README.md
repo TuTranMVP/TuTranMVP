@@ -1,18 +1,16 @@
-<div face="Cascadia Code" style="font-family: Cascadia Code;">
+<div style="font-family: 'Space Grotesk', 'Input Mono', Arial, sans-serif;">
   
 <h1>Hi👋My name is Tu Tran (Tony)</h1>
   
-<p align="left">
-  <a href="https://www.linkedin.com/in/tutranmvp/" target="_blank">
-    <img height="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/a4c19c4d0c6cf1019227503eaed82d3fae391f57/imgs/linked.svg">
+  <a href="#" target="_blank">
+    <img width="24" height="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/a4c19c4d0c6cf1019227503eaed82d3fae391f57/imgs/linked.svg" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/tutranmvp/" target="_blank">
-    <img height="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/17d7ebbbb4d64298a7f77ff6405c2c70747b07c5/imgs/instagram2.svg">
+  <a href="#" target="_blank">
+    <img width="24" height="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/17d7ebbbb4d64298a7f77ff6405c2c70747b07c5/imgs/instagram2.svg" alt="Instagram">
   </a>
-   <a href="https://www.facebook.com/tutranmvp/" target="_blank">
-    <img height="23" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/32ebaf8ff1ff979c5dae85edfeae8e1354434495/imgs/facebook.svg">
+  <a href="#" target="_blank">
+    <img width="24" height="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/32ebaf8ff1ff979c5dae85edfeae8e1354434495/imgs/facebook.svg" alt="Facebook">
   </a>
-</p>
 
 I'm a Fullstack Developer with over 5 years of experience building scalable products .<br>
 I truly love what I do and look forward to learning more about new technology in order to create helpful products for life .<br>
