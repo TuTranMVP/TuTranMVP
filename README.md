@@ -12,7 +12,7 @@
     <img width="24" height="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/32ebaf8ff1ff979c5dae85edfeae8e1354434495/imgs/facebook.svg" alt="Facebook">
   </a>
 
-I'm a Fullstack Developer with over 5 years of experience building scalable products .<br>
+I'm a Software Engineer with over 5 years of experience building scalable products .<br>
 I truly love what I do and look forward to learning more about new technology in order to create helpful products for life .<br>
 🌍  I'm based in Viet Nam <br>
 🖥️  See my portfolio at <a href="https://tutran-profile.web.app">Tony Homepage</a> <br>
