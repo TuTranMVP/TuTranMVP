@@ -16,7 +16,7 @@ I'm a Software Engineer with over 5 years of experience building scalable produc
 I truly love what I do and look forward to learning more about new technology in order to create helpful products for life .<br>
 🌍  I'm based in Viet Nam <br>
 🖥️  See my portfolio at <a href="https://tutran-profile.web.app">Tony Homepage</a> <br>
-✉️  Contact me at <a href="mailto:thanhtu190997@icloud.com">thanhtu190997@icloud.com</a> <br>
+✉️  Contact me at <a href="mailto:tony.tran.mvp@gmail.com">thanhtu190997@icloud.com</a> <br>
 🚀  I'm currently working as a Team Leader at <a href="https://www.fpt-software.com/">FPT</a> <br>
 🧠  I'm learning AI Applications Engineer <br>
 🤝  I'm open to collaborating on Vuejs, Nuxtjs, Nodejs, Golang and Javascript <br>
