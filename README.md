@@ -1,6 +1,6 @@
 <div style="font-family: 'Space Grotesk', 'Input Mono', Arial, sans-serif;">
   
-<h1>Hi👋My name is Tu Tran (Tony)</h1>
+<h1>Hi👋My name's Tu Tran (Tony)</h1>
   
   <a href="#" target="_blank">
     <img width="24" height="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/a4c19c4d0c6cf1019227503eaed82d3fae391f57/imgs/linked.svg" alt="LinkedIn">
