@@ -18,7 +18,7 @@ I truly love what I do and look forward to learning more about new technology in
 🖥️  See my portfolio at <a href="https://www.linkedin.com/in/tutranmvp/">Tony Homepape</a> <br>
 ✉️  Contact me at <a href="mailto:tony.tran.mvp@gmail.com">tony.tran.mvp@gmail.com</a> <br>
 🚀  I'm currently working as a Team Leader at <a href="https://www.fpt-software.com/">FPT</a> <br>
-🧠  I'm learning AI Applications Engineer <br>
+🧠  I'm learning AI Applications Engineer & Golang/Rust <br>
 🤝  I'm open to collaborating on Vuejs, Nuxtjs, Nodejs, Golang and Javascript <br>
 ⚡  In my free time, I enjoy being active and creative. I like to ride a motorbike to explore new places or play the game with a cup of coffee. Other times, I'm reading or learning a new language or framework.
 <br>
@@ -74,7 +74,6 @@ I truly love what I do and look forward to learning more about new technology in
   <code><img height="20" width="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/f4ce7213af22ffe9c81a4f87ae6b31e0d0fe9f2a/imgs/Three.js_dark.svg"></code>
   <code><img height="20" width="24" src="https://cdn.phaser.io/images/logo/logo-download-vector.png"></code>
   <code><img height="20" width="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/125da83da1495fa3a33d9607e71d5fbd7cf9cfdf/imgs/map.svg"></code>
-  <code><img height="20" width="64" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/125da83da1495fa3a33d9607e71d5fbd7cf9cfdf/imgs/leaflet.svg"></code>
 <hr/>
 
 <h4>Certificates</h5>
