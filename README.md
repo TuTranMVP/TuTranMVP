@@ -1,6 +1,6 @@
 <div style="font-family: 'Space Grotesk', 'Input Mono', Arial, sans-serif;">
   
-<h1>Hi👋My name's Tu Tran (Alpha)</h1>
+<h1>Hi👋My name's Tu Tran (Tony)</h1>
   
   <a href="#" target="_blank">
     <img width="24" height="24" src="https://raw.githubusercontent.com/TuTranMVP/TuTranMVP/a4c19c4d0c6cf1019227503eaed82d3fae391f57/imgs/linked.svg" alt="LinkedIn">
@@ -15,8 +15,8 @@
 I'm a Software Engineer with over 5 years of experience building scalable products .<br>
 I truly love what I do and look forward to learning more about new technology in order to create helpful products for life .<br>
 🌍  I'm based in Viet Nam <br>
-🖥️  See my portfolio at <a href="https://www.linkedin.com/in/tutranmvp/">Alpha Homepape</a> <br>
-✉️  Contact me at <a href="mailto:alpha.tran.mvp@gmail.com">alpha.tran.mvp@gmail.com</a> <br>
+🖥️  See my portfolio at <a href="https://www.linkedin.com/in/tutranmvp/">Tony Homepape</a> <br>
+✉️  Contact me at <a href="mailto:tony.tran.mvp@gmail.com">tony.tran.mvp@gmail.com</a> <br>
 🚀  I'm currently working as a Team Leader at <a href="https://www.fpt-software.com/">FPT</a> <br>
 🧠  I'm learning AI Applications Engineer <br>
 🤝  I'm open to collaborating on Vuejs, Nuxtjs, Nodejs, Golang and Javascript <br>
