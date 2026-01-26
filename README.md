@@ -13,14 +13,14 @@
   </a>
 
 I'm a Software Engineer with over 7 years of experience building scalable products .<br>
-I truly love what I do and look forward to learning more about new technology in order to create helpful products for life .<br>
+I truly love what I do and look forward to learning more about new technology to create helpful products for life .<br>
 🌍  I'm based in Viet Nam <br>
 🖥️  See my portfolio at <a href="https://www.linkedin.com/in/tutranmvp/">Tony Homepape</a> <br>
 ✉️  Contact me at <a href="mailto:tony.tran.mvp@gmail.com">tony.tran.mvp@gmail.com</a> <br>
 🚀  I'm currently working as a Team Leader at <a href="https://www.fpt-software.com/">FPT</a> <br>
 🧠  I'm learning AI Applications Engineer & Golang/Rust <br>
-🤝  I'm open to collaborating on Vuejs, Nuxtjs, Nodejs, Golang and Javascript <br>
-⚡  In my free time, I enjoy being active and creative. I like to ride a motorbike to explore new places or play the game with a cup of coffee. Other times, I'm reading or learning a new language or framework.
+🤝  I'm open to collaborating on VueJS, NuxtJS, NodeJS, Golang, and JavaScript <br>
+⚡  In my free time, I enjoy being active and creative. I like to ride a motorbike to explore new places or play a game with a cup of coffee. Other times, I'm reading or learning a new language or framework.
 <br>
 
 <h4>Skills</h5>
